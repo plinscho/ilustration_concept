@@ -27,7 +27,7 @@ function App() {
             />
           <Ilustration 
             image="/img/img_23.jpg"
-            caption="sunday reality"
+            caption="it’s not my fucking birthday"
             id="10"
             />
         </div>
