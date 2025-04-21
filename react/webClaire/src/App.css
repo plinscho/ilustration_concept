@@ -13,6 +13,20 @@ header {
   left:0;
   width: 100%;
   background-color: aquamarine;
+  z-index: 1000;
+  height: 80px;
+}
+
+main {
+  margin-top: 80px;
+}
+
+.ilustration {
+  margin: 20px;
+  padding: 10px;
+  border: 1px;
+
+
 }
 
 .logo {
